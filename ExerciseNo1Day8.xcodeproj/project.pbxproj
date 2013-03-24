@@ -18,7 +18,7 @@
 		90A55C6716FC76C30074A8B2 /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 90A55C6616FC76C30074A8B2 /* Default-568h@2x.png */; };
 		90A55C6A16FC76C30074A8B2 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 90A55C6916FC76C30074A8B2 /* ViewController.m */; };
 		90A55C6D16FC76C30074A8B2 /* ViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 90A55C6B16FC76C30074A8B2 /* ViewController.xib */; };
-		90EFACEF16FF071800A6896B /* troll.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 90EFACEE16FF071800A6896B /* troll.jpg */; };
+		90EFACF516FF0BBA00A6896B /* troll.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 90EFACF416FF0BBA00A6896B /* troll.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -38,7 +38,7 @@
 		90A55C6816FC76C30074A8B2 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
 		90A55C6916FC76C30074A8B2 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
 		90A55C6C16FC76C30074A8B2 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/ViewController.xib; sourceTree = "<group>"; };
-		90EFACEE16FF071800A6896B /* troll.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = troll.jpg; path = ../../troll.jpg; sourceTree = "<group>"; };
+		90EFACF416FF0BBA00A6896B /* troll.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = troll.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -98,7 +98,7 @@
 		90A55C5716FC76C30074A8B2 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
-				90EFACEE16FF071800A6896B /* troll.jpg */,
+				90EFACF416FF0BBA00A6896B /* troll.jpg */,
 				90A55C5816FC76C30074A8B2 /* ExerciseNo1Day8-Info.plist */,
 				90A55C5916FC76C30074A8B2 /* InfoPlist.strings */,
 				90A55C5C16FC76C30074A8B2 /* main.m */,
@@ -166,7 +166,7 @@
 				90A55C6516FC76C30074A8B2 /* Default@2x.png in Resources */,
 				90A55C6716FC76C30074A8B2 /* Default-568h@2x.png in Resources */,
 				90A55C6D16FC76C30074A8B2 /* ViewController.xib in Resources */,
-				90EFACEF16FF071800A6896B /* troll.jpg in Resources */,
+				90EFACF516FF0BBA00A6896B /* troll.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
